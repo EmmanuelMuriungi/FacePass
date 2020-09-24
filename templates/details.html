@@ -1,0 +1,42 @@
+{% extends 'layout.html' %}
+{% load static %}
+{% block title %}Facepass{% endblock %}
+{% block content %}
+<div class="container">
+  <div style="padding-bottom: 2em;text-align:center">
+    <h1 class="text-center" style="color:#800080">FACEPASS</h1>
+  </div>
+
+  <!-- <ul>
+    <li>{{record.first_name}} {{record.last_name}}</li>
+    <li>{{record.fees_cleared}}</li>
+    <li>{{record.program}}</li>
+    <li>{{record.address}}</li>
+  </ul> -->
+  <div class="container">
+    <div class="row">
+      <div class="col-md-10 col-md-offset-1" style="padding-top:3em;padding-bottom:2em;-webkit-box-shadow: 0px 0px 14px 0px rgba(50, 50, 50, 0.5);
+-moz-box-shadow:    0px 0px 14px 0px rgba(50, 50, 50, 0.5);
+box-shadow:         0px 0px 14px 0px rgba(50, 50, 50, 0.5);">
+        <div class="col-md-5">
+          <div class="row">
+            <div class="col-md-8 col-md-offset-2">
+                <img src="{% static 'img/riara.jpg' %}" class="img-responsive" />
+            </div>
+            <div class="col-md-12" style="text-align:center">
+              <h3 style="color:#800080"><b>{{record.first_name}} {{record.last_name}}</b></h3>              
+              <h5><b>Fees Cleared: </b> {{record.fees_cleared}} </h5>
+              <h5><b>Program: </b> {{record.program}}</h5>
+              <h5><b>Address: </b> {{record.address}}</h5>
+              <h5><b>Date Recorded in System: </b> {{record.recorded_at}}</h5>
+            </div>
+          </div>
+        </div>        
+        <div class="col-md-12" style="margin-top:2em">
+          <a href="/" class="btn btn-warning"><i class="fa fa-chevron-left" aria-hidden="true"></i> Home</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+{% endblock %}

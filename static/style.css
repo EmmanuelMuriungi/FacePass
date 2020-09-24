@@ -1,0 +1,15 @@
+html, body {
+  font-family: "Muli", sans-serif;
+  -webkit-font-smoothing: antialiased !important;
+}
+
+  #particles-js{
+    background-image: url('img/bg.jpg');
+    height: 100vh;
+    position:fixed;
+    width: 100%;
+    background-repeat:no-repeat;
+    z-index: -100;
+    background-size: 100%;
+  
+}
