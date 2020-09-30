@@ -6,12 +6,6 @@
 ![Badge](https://img.shields.io/github/languages/count/EmmanuelMuriungi/FacePass?style=for-the-badge)
 
 
-Preview of System:
-
-<p>
-    <img src="https://github.com/EmmanuelMuriungi/FacePass/blob/assets/a.png" width="900" height="450" />
-</p>
-
 Facepass is a system which carries out real-time facial detection, recognition and subsequently identifies the individual along with their information. Initally developed within the context of a University where the system is able to facilitate access to multiple areas including but not limited to the campus premises, classrooms and examination rooms.
 
 This system is based on the open-source computer vision (OpenCV) library, Python, MySQL
@@ -43,6 +37,14 @@ relevant information stored in the database pertaining to them.
 * OpenCV 
 * Scikit-learn
 * Mysql
+
+
+Homepage:
+
+<p>
+    <img src="https://github.com/EmmanuelMuriungi/FacePass/blob/assets/a.png" width="900" height="450" />
+</p>
+
 
 
 
