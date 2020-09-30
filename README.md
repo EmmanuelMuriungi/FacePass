@@ -4,6 +4,10 @@
 
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 
+Preview of System:
+
+https://github.com/EmmanuelMuriungi/FacePass/blob/assets/a.png
+
 Facepass is a system which carries out real-time facial detection, recognition and subsequently identifies the individual along with their information. Initally developed within the context of a University where the system is able to facilitate access to multiple areas including but not limited to the campus premises, classrooms and examination rooms.
 
 This system is based on the open-source computer vision (OpenCV) library, Python, MySQL
