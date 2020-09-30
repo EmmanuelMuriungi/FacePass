@@ -1,12 +1,17 @@
 # FACEPASS
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+https://img.shields.io/github/languages/count/EmmanuelMuriungi/FacePass?style=for-the-badge
 
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 
+
+
 Preview of System:
 
-![Home](a.png)
+<p>
+    <img src="https://github.com/EmmanuelMuriungi/FacePass/blob/assets/a.png" width="900" height="450" />
+</p>
 
 Facepass is a system which carries out real-time facial detection, recognition and subsequently identifies the individual along with their information. Initally developed within the context of a University where the system is able to facilitate access to multiple areas including but not limited to the campus premises, classrooms and examination rooms.
 
