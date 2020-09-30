@@ -1,7 +1,8 @@
 # FACEPASS
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
-https://img.shields.io/github/languages/count/EmmanuelMuriungi/FacePass?style=for-the-badge
+
+[![Badge](https://img.shields.io/github/languages/count/EmmanuelMuriungi/FacePass?style=for-the-badge)
 
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 
