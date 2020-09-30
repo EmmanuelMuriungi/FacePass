@@ -76,5 +76,3 @@ This system employs the use of MySQL. One can host the database with the aid of
 
 **MySQL Workbench** https://dev.mysql.com/downloads/workbench/
 
-Preview of System:
-![Home](https://imgur.com/a/qqQwcJa)
