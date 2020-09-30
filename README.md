@@ -6,7 +6,7 @@
 
 Preview of System:
 
-https://github.com/EmmanuelMuriungi/FacePass/blob/assets/a.png
+![Home](a.png)
 
 Facepass is a system which carries out real-time facial detection, recognition and subsequently identifies the individual along with their information. Initally developed within the context of a University where the system is able to facilitate access to multiple areas including but not limited to the campus premises, classrooms and examination rooms.
 
